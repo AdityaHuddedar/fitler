@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="Aditya">Aditya Huddedar</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="latitude_label">Latitude: </string>
+    <string name="longitude_label">Longitude: </string>
+    <string name="address_label">Address: </string>
+
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+</resources>
